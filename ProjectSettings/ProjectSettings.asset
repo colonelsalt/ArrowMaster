@@ -513,7 +513,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 80f081e694f8d301
+  metroCertificateNotAfter: 009e9a8dc8fad301
   metroApplicationDescription: ArrowMaster
   wsaImages: {}
   metroTileShortName: 
