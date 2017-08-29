@@ -3,7 +3,7 @@ ArrowMaster - Bows and arrows in Mixed Reality
 
 ![ArrowMaster](http://i.imgur.com/Op81Byo.png)
 
-ArrowMaster is a simple Mixed Reality game that accompanies a beginner's tutorial for HoloLens development in Unity [link to be added].
+ArrowMaster is a simple Mixed Reality game that accompanies a [beginner's tutorial for HoloLens development in Unity](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/06/11/an-introduction-to-mixed-reality-game-development-with-hololens-and-unity/).
 
 This repository contains the finished Unity project for the game. It includes a copy of [Microsoft's HoloToolkit for Unity](https://github.com/Microsoft/HoloToolkit-Unity),
 as well as a couple of hologram prefabs for the player to interact with.
